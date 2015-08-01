@@ -9,5 +9,5 @@ int main(){
 	a=a+b;
 	cout<<a<<endl;
 	string a="git@github.com:GaoZhenGit/helloworld.git";
-	return 0;
+	return 1;
 }
