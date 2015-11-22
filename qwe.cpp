@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	cout<<"this is no security"<<end;
+	cout<<"this is a security"<<end;
 }
 
 void addSecurity()
