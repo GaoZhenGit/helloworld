@@ -1,7 +1,11 @@
-#includes<iostream> 
-using namespace std; 
-//the master bug
-int main() 
+#includes<iostream>
+using namespace std;
+int main()
 {
- 	cout<<"this is no security"<<end; 
+	cout<<"this is no security"<<end;
+}
+
+void addSecurity()
+{
+	//this is sec branch
 }
